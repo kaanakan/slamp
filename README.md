@@ -182,4 +182,4 @@ Please cite the paper if you benefit from our paper or the repository:
 
 ## Acknowledgments
 
-We want to thank SRVP and SVG authors for making their repositories public. This repository contains several code segments from [SRVP's repository](https://github.com/edouardelasalles/srvp) and [SVG's repository](https://github.com/edenton/svg). We appreciate the efforts by [Berkay Ugur Senocak](https://4turkuaz.github.io/) for cleaning the code before release.
+We would like to thank SRVP and SVG authors for making their repositories public. This repository contains several code segments from [SRVP's repository](https://github.com/edouardelasalles/srvp) and [SVG's repository](https://github.com/edenton/svg). We appreciate the efforts by [Berkay Ugur Senocak](https://github.com/4turkuaz) for cleaning the code before release.
