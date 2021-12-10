@@ -103,31 +103,31 @@ To run the evaluation on GPU, use the option `--device`.
 - For MNIST:
 
 ```bash
-wget https://www.dropbox.com/s/eseisehe2u0epiy/slamp_mnist.pth
+wget https://github.com/kaanakan/slamp/releases/download/v1.0/slamp_mnist.pth
 ```
 
 - For KTH:
 
 ```bash
-wget https://www.dropbox.com/s/7m0806nt7xt9bz8/slamp_kth.pth
+wget https://github.com/kaanakan/slamp/releases/download/v1.0/slamp_kth.pth
 ```
 
 - For BAIR:
 
 ```bash
-wget https://www.dropbox.com/s/cl1pzs5trw3ltr0/slamp_bair.pth
+wget https://github.com/kaanakan/slamp/releases/download/v1.0/slamp_bair.pth
 ```
 
 - For KITTI:
 
 ```bash
-wget https://www.dropbox.com/s/p7wdboswakyj7yi/slamp_kitti.pth
+wget https://github.com/kaanakan/slamp/releases/download/v1.0/slamp_kitti.pth
 ```
 
 - For Cityscapes:
 
 ```bash
-wget https://www.dropbox.com/s/lzwiivr1irffhsj/slamp_cityscapes.pth
+wget https://github.com/kaanakan/slamp/releases/download/v1.0/slamp_cityscapes.pth
 ```
 </details>
 
