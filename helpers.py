@@ -364,7 +364,7 @@ def eval_step(x, models, opt, device, lpips_model):
 
     with torch.no_grad():
         for s in range(nsample):
-            gen_seq= []
+            gen_seq = []
             gt_seq = []
 
             static_frame_predictor.hidden = static_frame_predictor.init_hidden(device)
