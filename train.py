@@ -93,8 +93,6 @@ def main(opt):
             writer.add_scalar('eval/lpips', eval_metrics['lpips'], epoch)
 
             to_save = models
-            to_save['opt'] = opt
-            to_save['epoch'] = epoch
 
             if eval_metrics['psnr'] > best_psnr:
                 print('best psnr model, psnr=', eval_metrics['psnr'])
